@@ -35,13 +35,13 @@ while True:
                 break
             print("a little lower ...")
             highest_guess = guess
-            guess = random.randint(lowest_guess + 1, highest_guess)
+            guess = random.randint(lowest_guess, highest_guess - 1)
         elif guess < legit_num:
             if i == chances - 1:
                 break
             print("a little higher ...")
             lowest_guess = guess
-            guess = random.randint(lowest_guess, highest_guess - 1)
+            guess = random.randint(lowest_guess + 1, highest_guess)
         else:
             winner = "Bot"
             break
