@@ -1,0 +1,2 @@
+## V0.2
+Trying to know a little more about this cursed language, so i made a class, isn't that enough OOP? also polished the code structure, not good enough for me yet, but definitely better than the previous version. 

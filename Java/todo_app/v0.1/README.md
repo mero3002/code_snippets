@@ -1,0 +1,2 @@
+## V0.1
+First time writing in Java, just getting myself comfortable with the syntax and a little bit of the language's style, this code is the loudest "i came from C++" you could ever hear, but yeah, let's create a class or something next time.
