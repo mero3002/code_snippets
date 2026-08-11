@@ -1,0 +1,14 @@
+{
+    "mahmoud": {
+        "password": "mahmoud123",
+        "email": "mahmoud@gmail.com"
+    },
+    "ahmed": {
+        "password": "ahmed123",
+        "email": "ahmed@gmail.com"
+    },
+    "merp": {
+        "password": "123",
+        "email": "dfdas"
+    }
+}
