@@ -149,7 +149,7 @@ public class Main {
     }
 
     public void byebye(){
-        System.out.println("<< byebye >>");
+        System.out.print("<< byebye >>");
         loop_start = false;
     }
 
